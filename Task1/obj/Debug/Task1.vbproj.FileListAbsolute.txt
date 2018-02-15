@@ -1,0 +1,10 @@
+D:\vb\Task1\Task1\bin\Debug\Task1.exe.config
+D:\vb\Task1\Task1\bin\Debug\Task1.exe
+D:\vb\Task1\Task1\bin\Debug\Task1.pdb
+D:\vb\Task1\Task1\bin\Debug\Task1.xml
+D:\vb\Task1\Task1\obj\Debug\Task1.Form1.resources
+D:\vb\Task1\Task1\obj\Debug\Task1.Resources.resources
+D:\vb\Task1\Task1\obj\Debug\Task1.vbproj.GenerateResource.Cache
+D:\vb\Task1\Task1\obj\Debug\Task1.exe
+D:\vb\Task1\Task1\obj\Debug\Task1.xml
+D:\vb\Task1\Task1\obj\Debug\Task1.pdb
